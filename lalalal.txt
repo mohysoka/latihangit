@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello edit
-=======
-hello
->>>>>>> bdf473ee05cf5d45b4ba6ff1568963963d5b16c1
+
